@@ -1,0 +1,42 @@
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.navbar-brand {
+	font-size: 2.5em;
+ 	font-weight: bold;
+}
+
+ #nav-list {
+  background: #797777;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+  border : solid 1px black;
+}
+
+#nav-list a:hover {
+  background: #E7E7C1;
+}
+
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.main-content-row {
+	height: 1000px; 
+	margin-top: 10px;
+	background: #E7E7E7;
+	position: relative;
+}
+
+.main-content-row a {
+	position:absolute;
+	bottom: 0;
+	right: 0;
+}
